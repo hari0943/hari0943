@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hari0943
-- 👀 I’m interested in idk
-- 🌱 I’m currently learning it
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in Machine Learning , Binary Exploitation
+- 🌱 I’m currently learning Information Technology
+- 💞️ I’m looking to collaborate on Projects on the domain listed above 
 - 📫 How to reach me hkv0943@gmail.com
 
 <!---
