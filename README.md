@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hari0943
-- 👀 I’m interested in Machine Learning , Binary Exploitation
-- 🌱 I’m currently learning Information Technology
+- 👀 I’m interested in Machine Learningand Operating systems.
+- 🌱 I’m currently working as a backend developer at QBurst.
 - 💞️ I’m looking to collaborate on Projects on the domain listed above 
 - 📫 How to reach me hkv0943@gmail.com
 
